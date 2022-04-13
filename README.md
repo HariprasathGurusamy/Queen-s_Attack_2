@@ -15,6 +15,7 @@ There are obstacles on the chessboard, each preventing the queen from attacking 
 For example, an obstacle at location (3,5) in the diagram above prevents the queen from attacking cells (3,5), (2,6), and (1,7):
 
 ![1485459132-3fdc1f1ca3-chess_4_](https://user-images.githubusercontent.com/74598275/163178652-a0c5786f-d839-4fb3-8981-8f08af586c92.png)
+
 Given the queen's position and the locations of all the obstacles, find and print the number of squares the queen can attack from her position at (rq, cq).\
 In the board above, there are 24 such squares.
 
